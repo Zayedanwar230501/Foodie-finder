@@ -40,13 +40,13 @@ A modern food delivery frontend application inspired by Swiggy, built using Reac
 
 ---
 
-### 🛒 Cart Functionality
+### 🛒 Menu Accordian View
 
 ![Accordian view](./screenshots/Screenshot-3.png)
 
 ---
 
-### 📱 Mobile Responsive View
+### 📱 Accordian Items View
 
 ![Accordian Items view](./screenshots/Screenshot-4.png)
 
